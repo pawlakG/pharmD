@@ -15,7 +15,7 @@ We predicted the pIC50 of the newly obtained molecules by training a deep learni
 <p align="center"> 
   <img src="https://github.com/pawlakG/pharmD/blob/f141e3fb89491a4eb6d30d92290f41df89e236b8/output/img/pharmD_Outline.png" width=40% height=40%>
 </p>
-<p>
+<p align="center">>
   <em>Figure 1: PharmD practical project outline.</em>
 </p>
 
@@ -26,7 +26,7 @@ Following the search for compounds active on the MET receptor, 4,206 IC50 assays
 <p align="center"> 
   <img src="https://github.com/pawlakG/pharmD/blob/8e526862e84ebb55294353f952da5fcc67169a07/output/img/activMolMET.png" width=40% height=40%>
 </p>
-<p>
+<p align="center">>
   <em>Figure 2: IC50 histogram of MET active compounds.</em>
 </p>
 
@@ -35,7 +35,7 @@ After filtering based on Lipinski's rules, as well as removing over-interacting 
 <p align="center"> 
   <img src="https://github.com/pawlakG/pharmD/blob/8e526862e84ebb55294353f952da5fcc67169a07/output/06_similarCompoundMolecularFiltering/simCompoundFiltered.png" width=40% height=40%>
 </p>
-<p>
+<p align="center">>
   <em>Figure 3: Radar plot representig globel Lipinski indicators for selected compounds.</em>
 </p>
 
@@ -48,7 +48,7 @@ A deep learning model was applied to predict the pIC50 of all the obtained molec
 <p align="center"> 
   <img src="https://github.com/pawlakG/pharmD/blob/60bda58367db9f016b267f0509dc13b0a5d74a2f/output/img/ic50PredSimCompounds.png" width=40% height=40%>
 </p>
-<p>
+<p align="center">>
   <em>Figure 4: Histogram of predicted pIC50 of similar compounds.</em>
 </p>
 
@@ -57,7 +57,7 @@ To select only the most active compounds on the MET receptor, we retained only t
 <p align="center"> 
   <img src="https://github.com/pawlakG/pharmD/blob/60bda58367db9f016b267f0509dc13b0a5d74a2f/output/img/top8ActivesMol.png" width=40% height=40%>
 </p>
-<p>
+<p align="center">>
   <em>Figure 5: Top 8 of active compounds against MET receptor.</em>
 </p>
 
@@ -68,7 +68,7 @@ The final set of compounds comprises the initial group obtained from experimenta
 <p align="center"> 
   <img src="https://github.com/pawlakG/pharmD/blob/60bda58367db9f016b267f0509dc13b0a5d74a2f/output/img/top10LessToxic.png" width=40% height=40%>
 </p>
-<p>
+<p align="center">>
   <em>Figure 5: Top 10 of active and less toxic compounds against MET receptor.</em>
 </p>
 
