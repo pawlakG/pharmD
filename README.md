@@ -4,7 +4,7 @@ This experimental section aims to introduce an initial pipeline for virtual scre
 
 I decided to find molecular entities actives against MET receptor, a commonly mutated tyrosine kinase receptor (TKR) in cancers, outline in Figure 1.
 
-![Figure 1 outline of PharmD practical section](output/img/pharmD_Outline.png | width=50, height=50)
+![Figure 1 outline of PharmD practical section](output/img/pharmD_Outline.png | width=50)
 
 
 ## Objectives
