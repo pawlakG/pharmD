@@ -1,10 +1,16 @@
-# pharmD repository : PharmD thesis repository 
+# pharmD project : therapeutic repurposing 
+
+This experimental section aims to introduce an initial pipeline for virtual screening, relying exclusively on publicly available database information, as well as prediction algorithms for biological activity parameters and toxicity.
+
+I decided to find molecular entities actives against MET receptor, a commonly mutated tyrosine kinase receptor (TKR) in cancers, outline in Figure 1.
+
+[Figure 1 outline of PharmD practical section](output/img/pharmD_Outline.png)
+
 
 ## Objectives
 Deploy a repository workflow example following these steps :
 * Get all molecules for a specified indication
 * get all physical, biological and pharmacological properties
-* optional : Study if there is existing clusters or communities 
 * Extract shared characteristics
 * Search molucules with similar properties
 * Remoce already tested molecules
